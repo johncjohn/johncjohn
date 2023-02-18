@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johncjohn
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently creating apps
 - 💞️ I’m looking to collaborate on deep learning and cloud security
 - 📫 How to reach me - @ Department of CSE, IIT Kharagpur (WB) India,  
 											 Also @RIT Kottayam (Kerala) India
